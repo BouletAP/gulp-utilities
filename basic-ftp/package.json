@@ -1,0 +1,20 @@
+{
+  "name": "yourproject.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-update": "^0.0.2",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sftp": "^0.1.5",
+    "gulp-util": "^1.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "André-Philippe Boulet",
+  "license": "ISC"
+}
